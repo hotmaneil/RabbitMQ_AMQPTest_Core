@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Microsoft.Extensions.Configuration;
+
 Console.WriteLine("主要是實際測試RabbitMQ教學的第2和3章");
 
 /*
@@ -14,3 +16,7 @@ Worker
 Sendlogs
 ReceiveLogs
  */
+
+
+
+
